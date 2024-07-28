@@ -4,6 +4,7 @@ import sys
 
 # Initialize pygame
 pygame.init()
+#hello
 
 # Constants
 SCREEN_WIDTH = 800
